@@ -1,0 +1,48 @@
+ 
+ 1.GET​/api​/v1​/Authors
+
+ API: GET /api/v1/Authors
+ Test Case: 200 OK
+ Expected Result: 200 OK
+ Actual Result: 200 OK
+ Status: Pass
+
+2.POST/api​/v1​/Authors
+
+ API: GET /api/v1/Authors
+ Test Case: 200 OK
+ Expected Result: 200 OK
+ Actual Result: 200 OK
+ Status: Pass
+
+3.GET/api​/v1​/Authors​/authors​/books​/{2}
+
+ API: GET /api/v1/Authors
+ Test Case: 200 OK
+ Expected Result: 200 OK
+ Actual Result: 200 OK
+ Status: Pass
+
+4.GET​/api​/v1​/Authors​/{3}
+
+ API: GET /api/v1/Authors
+ Test Case: 200 OK
+ Expected Result: 200 OK
+ Actual Result: 200 OK
+ Status: Pass
+
+5.PUT/api​/v1​/Authors​/{1}
+
+ API: GET /api/v1/Authors
+ Test Case: 200 OK
+ Expected Result: 200 OK
+ Actual Result: 200 OK
+ Status: Pass
+
+6.DELETE/api​/v1​/Authors​/{4}
+
+ API: GET /api/v1/Authors
+ Test Case: 200 OK
+ Expected Result: 200 OK
+ Actual Result: 200 OK
+ Status: Pass
